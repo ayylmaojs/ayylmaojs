@@ -1,1 +1,1 @@
-alert('ayadfhadfhf cool ranch');
+alert('ayadfhadfhf cool ranch ayy lmao');
